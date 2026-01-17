@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=150&section=header&text=Welcome%20Home&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR4Z2g2Z2g2Z2g2Z2g2Z2g2Z2g2Z2g2Z2g2Z2g2Z2g/RtpmUzPhckZ7q/giphy.gif" width="100" />
+</div>
+
+
+<div align="center">
   <h1>Hi, I'm Salaheddine. <img src="https://raw.githubusercontent.com/KellyChibale/KellyChibale/main/assets/wave.gif" width="30px"></h1>
   <h3>Full Stack Developer | Systems Enthusiast | Problem Solver</h3>
 
