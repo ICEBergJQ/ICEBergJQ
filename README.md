@@ -1,11 +1,4 @@
 <div align="center">
-  <img src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-cat.gif" width="60" />
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=100&section=footer" width="100%"/>
-</div>
-
-
-<div align="center">
   <h1>Hi, I'm Salaheddine. <img src="https://raw.githubusercontent.com/KellyChibale/KellyChibale/main/assets/wave.gif" width="30px"></h1>
   <h3>Full Stack Developer | Systems Enthusiast | Problem Solver</h3>
 
