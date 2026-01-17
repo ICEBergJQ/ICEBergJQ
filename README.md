@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=150&section=header&text=Welcome%20Home&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR4Z2g2Z2g2Z2g2Z2g2Z2g2Z2g2Z2g2Z2g2Z2g2Z2g/RtpmUzPhckZ7q/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/hS4G80PTnEbMQ/giphy.gif" width="100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=100&section=footer" width="100%"/>
 </div>
 
 
