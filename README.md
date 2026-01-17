@@ -30,15 +30,15 @@ I am a software developer with a strong foundation in **Full Stack Development**
 
 ## Technical Arsenal
 
-### **Development**
+
 [![My Skills](https://skillicons.dev/icons?i=angular,ts,java,spring,nodejs,rust,js,vue,bootstrap,html,css,postgres,sqlite)](https://skillicons.dev)
 
-### **Systems & Infrastructure**
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,docker,bash,git,vim,postman)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,bash,git,vim,postman)](https://skillicons.dev)
 
 ---
 
-## 📊 Modern Metrics (2026 Edition)
+## Modern Metrics (2026 Edition)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakacmi&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
