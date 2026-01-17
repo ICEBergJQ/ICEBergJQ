@@ -1,14 +1,12 @@
 <div align="center">
   <h1>Hi, I'm Salaheddine. <img src="https://raw.githubusercontent.com/KellyChibale/KellyChibale/main/assets/wave.gif" width="30px"></h1>
   <h3>Full Stack Developer | Systems Enthusiast | Problem Solver</h3>
-
-  <i>"The best way to predict the future is to invent it."</i> — <b>Alan Kay</b>
   <br/><br/>
 
   <a href="https://linkedin.com/in/salaheddine-kacmi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_ID">
+  <a href="https://discordapp.com/users/icebergjq">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="mailto:salahsks52@outlook.com">
@@ -36,20 +34,11 @@ I am a software developer with a strong foundation in **Full Stack Development**
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,bash,git,vim,postman)](https://skillicons.dev)
 
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Dream%20not%20of%20what%20you%20are...-FF69B4?style=for-the-badge&logo=warframe&logoColor=white" alt="Lotus Quote">
+  <img src="https://img.shields.io/badge/Science_isn't_about_WHY._It's_about_WHY_NOT.-8E44AD?style=for-the-badge&logo=atom&logoColor=white" alt="Cave Johnson Quote">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Talk%20is%20cheap-Show%20me%20the%20code-007ACC?style=for-the-badge&logo=linux&logoColor=white"/>
-</div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS:_ONLINE-00C853?style=for-the-badge&logo=linux&logoColor=black" alt="System Status">
-</div>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D500F9&height=100&section=footer" width="100%"/>
 </div>
