@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/salaheddine-kacmi">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:salahsks52@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -28,21 +28,21 @@ I am a software developer with a strong foundation in **Full Stack Development**
 ### **Frontend & Frameworks**
 <div align="left">
   <a href="https://angular.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap,html,css" height="40" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap,html,css,vue" height="40" alt="Frontend" />
   </a>
 </div>
 
 ### **Backend & Database**
 <div align="left">
   <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql" height="40" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,sqlite" height="40" alt="Backend" />
   </a>
 </div>
 
 ### **DevOps & Tools**
 <div align="left">
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,docker,git,vim,bash" height="40" alt="DevOps" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,git,vim,bash,postman" height="40" alt="DevOps" />
   </a>
 </div>
 
