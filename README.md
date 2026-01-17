@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/hS4G80PTnEbMQ/giphy.gif" width="100" />
+  <img src="https://media.tenor.com/On7kvXhzml4AAAAj/loading-cat.gif" width="60" />
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=100&section=footer" width="100%"/>
 </div>
 
