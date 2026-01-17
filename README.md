@@ -2,13 +2,6 @@
   <h1>Hi, I'm Salaheddine.</h1>
   <h3>Full Stack Developer | Systems Enthusiast | Problem Solver</h3>
   <br/>
-  
-  <a href="https://linkedin.com/in/salaheddine-kacmi">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:salahsks52@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </div>
 
 <br/>
@@ -31,7 +24,7 @@ I am a software developer with a strong foundation in **Full Stack Development**
 </div>
 <div align="left">
   <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,js,node.js,rust,spring,postgres,sqlite" height="40" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=java,js,nodejs,rust,spring,postgres,sqlite" height="40" alt="Backend" />
   </a>
 </div>
 <div align="left">
@@ -41,3 +34,9 @@ I am a software developer with a strong foundation in **Full Stack Development**
 </div>
 
 <br/>
+  <a href="https://linkedin.com/in/salaheddine-kacmi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:salahsks52@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
