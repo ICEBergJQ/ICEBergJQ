@@ -35,7 +35,7 @@ I am a software developer with a strong foundation in **Full Stack Development**
 ## Technical Arsenal
 
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,java,spring,nodejs,rust,js,vue,bootstrap,html,css,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,java,spring,nodejs,rust,js,go,vue,bootstrap,html,css,postgres,sqlite)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,bash,git,vim,postman)](https://skillicons.dev)
