@@ -24,22 +24,16 @@ I am a software developer with a strong foundation in **Full Stack Development**
 ---
 
 ## Technical Arsenal
-
-### **Frontend & Frameworks**
 <div align="left">
   <a href="https://angular.io" target="_blank">
     <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap,html,css,vue" height="40" alt="Frontend" />
   </a>
 </div>
-
-### **Backend & Database**
 <div align="left">
   <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,sqlite" height="40" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=java,js,node,rust,spring,postgres,sqlite" height="40" alt="Backend" />
   </a>
 </div>
-
-### **DevOps & Tools**
 <div align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux,docker,git,vim,bash,postman" height="40" alt="DevOps" />
