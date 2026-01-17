@@ -3,8 +3,8 @@
   <h3>Full Stack Developer | Systems Enthusiast | Problem Solver</h3>
   <br/>
 </div>
-
 <br/>
+---
 
 ## About Me
 
@@ -19,14 +19,14 @@ I am a software developer with a strong foundation in **Full Stack Development**
 ## Technical Arsenal
 <div align="left">
   <a href="https://angular.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap,html,css,vue" height="40" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap,html,css,vue,java,js,nodejs,rust,spring,postgres,sqlite" height="40" alt="Frontend" />
   </a>
 </div>
-<div align="left">
+<!-- <div align="left">
   <a href="https://spring.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java,js,nodejs,rust,spring,postgres,sqlite" height="40" alt="Backend" />
   </a>
-</div>
+</div> -->
 <div align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux,docker,git,vim,bash,postman" height="40" alt="DevOps" />
