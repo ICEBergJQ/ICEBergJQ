@@ -1,7 +1,4 @@
 <div align="center">
-  <img src="https://img1.picmix.com/output/stamp/normal/9/3/6/3/933639_1432b.gif" width="50%" />
-</div>
-<div align="center">
   <h1>Hi, I'm Salaheddine. <img src="https://raw.githubusercontent.com/KellyChibale/KellyChibale/main/assets/wave.gif" width="30px"></h1>
   <h3>Full Stack Developer | Systems Enthusiast | Problem Solver</h3>
 
