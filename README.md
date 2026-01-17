@@ -36,23 +36,9 @@ I am a software developer with a strong foundation in **Full Stack Development**
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,bash,git,vim,postman)](https://skillicons.dev)
 
----
 
-## Modern Metrics (2026 Edition)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakacmi&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakacmi&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakacmi&theme=radical&border_radius=10" alt="GitHub Streak" width="97%"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=100&section=footer" width="100%"/>
 </div>
