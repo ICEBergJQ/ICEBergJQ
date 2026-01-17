@@ -31,7 +31,7 @@ I am a software developer with a strong foundation in **Full Stack Development**
 </div>
 <div align="left">
   <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,js,node,rust,spring,postgres,sqlite" height="40" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=java,js,node.js,rust,spring,postgres,sqlite" height="40" alt="Backend" />
   </a>
 </div>
 <div align="left">
