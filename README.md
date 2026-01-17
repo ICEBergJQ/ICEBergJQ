@@ -36,7 +36,18 @@ I am a software developer with a strong foundation in **Full Stack Development**
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,bash,git,vim,postman)](https://skillicons.dev)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Dream%20not%20of%20what%20you%20are...-FF69B4?style=for-the-badge&logo=warframe&logoColor=white" alt="Lotus Quote">
+</div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Talk%20is%20cheap-Show%20me%20the%20code-007ACC?style=for-the-badge&logo=linux&logoColor=white"/>
+</div>
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_STATUS:_ONLINE-00C853?style=for-the-badge&logo=linux&logoColor=black" alt="System Status">
+</div>
 
 
 <div align="center">
