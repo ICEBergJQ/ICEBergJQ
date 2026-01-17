@@ -4,7 +4,6 @@
   <br/>
 </div>
 <br/>
----
 
 ## About Me
 
@@ -22,11 +21,6 @@ I am a software developer with a strong foundation in **Full Stack Development**
     <img src="https://skillicons.dev/icons?i=angular,ts,bootstrap,html,css,vue,java,js,nodejs,rust,spring,postgres,sqlite" height="40" alt="Frontend" />
   </a>
 </div>
-<!-- <div align="left">
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java,js,nodejs,rust,spring,postgres,sqlite" height="40" alt="Backend" />
-  </a>
-</div> -->
 <div align="left">
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linux,docker,git,vim,bash,postman" height="40" alt="DevOps" />
