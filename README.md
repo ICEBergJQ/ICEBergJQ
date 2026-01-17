@@ -1,6 +1,12 @@
 <div align="center">
   <h1>Hi, I'm Salaheddine. <img src="https://raw.githubusercontent.com/KellyChibale/KellyChibale/main/assets/wave.gif" width="30px"></h1>
   <h3>Full Stack Developer | Systems Enthusiast | Problem Solver</h3>
+
+  <div align="center">
+  <i>"Science isn't about <b>WHY</b>. It's about <b>WHY NOT</b>."</i>
+  <br/>
+  — <b>Cave Johnson</b>
+</div>
   <br/><br/>
 
   <a href="https://linkedin.com/in/salaheddine-kacmi">
@@ -34,10 +40,6 @@ I am a software developer with a strong foundation in **Full Stack Development**
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,bash,git,vim,postman)](https://skillicons.dev)
 
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Science_isn't_about_WHY._It's_about_WHY_NOT.-8E44AD?style=for-the-badge&logo=atom&logoColor=white" alt="Cave Johnson Quote">
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=D500F9&height=100&section=footer" width="100%"/>
