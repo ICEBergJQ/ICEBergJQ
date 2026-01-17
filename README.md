@@ -26,9 +26,9 @@
 
 I am a software developer with a strong foundation in **Full Stack Development** and **System Administration**. I bridge the gap between building robust applications and managing the infrastructure they run on.
 
-* ** Current Focus:** Building scalable web applications using **Angular & Spring Boot**.
-* ** Systems Engineering:** Experienced with **Linux (Debian)**, Shell Scripting, and Virtualization.
-* ** Philosophy:** I believe in writing clean, maintainable code and understanding the "why" behind the "how."
+* <b>Current Focus:</b> Building scalable web applications using **Angular & Spring Boot**.
+* <b>Systems Engineering:</b> Experienced with **Linux (Debian)**, Shell Scripting, and Virtualization.
+* <b>Philosophy:</b> I believe in writing clean, maintainable code and understanding the "why" behind the "how."
 
 ---
 
