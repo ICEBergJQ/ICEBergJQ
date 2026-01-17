@@ -46,12 +46,4 @@ I am a software developer with a strong foundation in **Full Stack Development**
   </a>
 </div>
 
-
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakacmi&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=666" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakacmi&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=666" height="160" alt="Languages" />
-</div>
-
 <br/>
